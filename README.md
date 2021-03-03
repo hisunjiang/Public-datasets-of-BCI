@@ -4,7 +4,7 @@ The following parts will list some of the widely used public BCI datasets in the
 Keeping on updating...
 
 # Public datasets
-## 1. BCI competitions (** classical**)
+## 1. BCI competitions (classical)
 - BCI Competition I
 - BCI Competition II (2003)
 - BCI Competition III (2005)

@@ -1,5 +1,5 @@
 # Brief description
-The following parts will list some of the widely used public EEG datasets in the literature. 
+The following parts will list some of the widely used public BCI datasets in the literature. 
 
 Keeping on updating...
 
@@ -27,6 +27,10 @@ University of California San Diego
 Address: ftp://sccn.ucsd.edu/pub/cca_ssvep/
 ## 4. Deep BCI
 Korea University
+- MI
+- SSVEP
+- ERP
+- Cognitive Task
 
 Address: http://deepbci.korea.ac.kr/opensource/opendb/
 ## 5. PhysioNet Database

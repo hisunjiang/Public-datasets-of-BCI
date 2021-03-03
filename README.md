@@ -39,7 +39,8 @@ Address: http://deepbci.korea.ac.kr/opensource/opendb/
 The Research Resource for Complex Physiologic Signals
 
 Address: https://www.physionet.org/about/database/
-## 6.  horizon 2020 (highly recommend!)
+## 6.  BNCI horizon 2020 (highly recommend!)
+The Future of Brain/Neural Computer Interaction: Horizon 2020
 
 Address: http://bnci-horizon-2020.eu/database/data-sets
 ## 7. Paper with code

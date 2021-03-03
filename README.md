@@ -24,7 +24,7 @@ Address: http://bci.med.tsinghua.edu.cn/download.html
 Swartz Center for Computational Neuroscience, Institude of Neural Computation,
 University of California San Diego
 
-Address: ftp://sccn.ucsd.edu/pub/cca_ssvep/
+Address: ftp://sccn.ucsd.edu/pub/
 ## 4. Deep BCI
 Korea University
 - MI

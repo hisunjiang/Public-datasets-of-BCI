@@ -4,14 +4,14 @@ The following parts will list some of the widely used public BCI datasets in the
 Keeping on updating...
 
 # Public datasets
-## 1. BCI competitions (classical)
+## 1. BCI competitions
 - BCI Competition I
 - BCI Competition II (2003)
 - BCI Competition III (2005)
 - BCI Competition IV (2008)
 
 Address: http://www.bbci.de/competition/
-## 2. Tsinghua University BCI group (highly recommend!)
+## 2. Tsinghua University BCI group
 - Benchmark dataset
 - BETA database
 - FBCCA-DW dataset
@@ -20,14 +20,14 @@ Address: http://www.bbci.de/competition/
 - Wearable SSVEP BCI Dataset
 
 Address: http://bci.med.tsinghua.edu.cn/download.html
-## 3. UCSD (highly recommend!)
+## 3. UCSD
 Swartz Center for Computational Neuroscience, Institude of Neural Computation,
 University of California San Diego
 
 Address1: ftp://sccn.ucsd.edu/pub/
 
 Address2: https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html
-## 4. Deep BCI (highly recommend!)
+## 4. Deep BCI
 Korea University
 - MI
 - SSVEP
@@ -35,11 +35,11 @@ Korea University
 - Cognitive Task
 
 Address: http://deepbci.korea.ac.kr/opensource/opendb/
-## 5. PhysioNet Database (highly recommend!)
+## 5. PhysioNet Database
 The Research Resource for Complex Physiologic Signals
 
 Address: https://www.physionet.org/about/database/
-## 6.  BNCI horizon 2020 (highly recommend!)
+## 6.  BNCI horizon 2020
 The Future of Brain/Neural Computer Interaction: Horizon 2020
 
 Address: http://bnci-horizon-2020.eu/database/data-sets

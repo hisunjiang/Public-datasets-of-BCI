@@ -1,7 +1,5 @@
 # Brief description
-The following parts will list some of the widely used public BCI datasets in the literature. 
-
-Keeping on updating...
+This repo lists some of the widely used public BCI datasets in literature. 
 
 # Public datasets
 ## 1. BCI competitions

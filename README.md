@@ -49,5 +49,5 @@ Address:https://paperswithcode.com/task/eeg
 Shared by Stanford University, see description in "Miller K J 2019 A library of human electrocorticographic
 data and analyses Nat. Hum. Behav. 3 1225–35"
 
-Address:https://purl.stanford.edu/zk881ps0522
+Address: https://purl.stanford.edu/zk881ps0522
 

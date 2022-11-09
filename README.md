@@ -44,3 +44,10 @@ Address: http://bnci-horizon-2020.eu/database/data-sets
 ## 7. Paper with code
 
 Address:https://paperswithcode.com/task/eeg
+
+## 8. A library of human electrocorticographic data and analyses
+Shared by Stanford University, see description in "Miller K J 2019 A library of human electrocorticographic
+data and analyses Nat. Hum. Behav. 3 1225–35"
+
+Address:https://purl.stanford.edu/zk881ps0522
+

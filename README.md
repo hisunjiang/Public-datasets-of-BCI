@@ -10,12 +10,6 @@ This repo lists some of the widely used public BCI datasets in literature.
 
 Address: http://www.bbci.de/competition/
 ## 2. Tsinghua University BCI group
-- Benchmark dataset
-- BETA database
-- FBCCA-DW dataset
-- Benchmark Dataset for RSVP BCIs
-- Cross-Session Dataset for Collaborative BCIs
-- Wearable SSVEP BCI Dataset
 
 Address: http://bci.med.tsinghua.edu.cn/download.html
 ## 3. UCSD
@@ -27,10 +21,6 @@ Address1: ftp://sccn.ucsd.edu/pub/
 Address2: https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html
 ## 4. Deep BCI
 Korea University
-- MI
-- SSVEP
-- ERP
-- Cognitive Task
 
 Address: http://deepbci.korea.ac.kr/opensource/opendb/
 ## 5. PhysioNet Database
